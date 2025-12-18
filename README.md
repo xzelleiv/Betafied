@@ -20,10 +20,10 @@
 
 Here's where we're at on the mission to revive Beta 1.7.3:
 
-- [ ] Authentic World Generation
+- [X] Authentic World Generation 80% Done!
     Classic biomes, ore spread, oceans, and those janky yet beautiful terrain curves.
 
-- [ ] Core Mechanics
+- [X] Core Mechanics
     From old-school combat and redstone to farming quirks and mob AI.
 
 + [X] Classic Visuals & Audio
